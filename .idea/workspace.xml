@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d49fd316-16a8-4755-9911-4c6796020366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ArratListGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ArrayList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ArrayListRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ArrayListSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListElementChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/HashsetExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/TreeSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
