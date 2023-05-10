@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d49fd316-16a8-4755-9911-4c6796020366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/HashsetExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/Client_sock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/Server_sock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThradExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThreadPriority1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThreadSyncBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/ThreadSyncMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionClass/VectorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCollectionClass/TreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCollectionClass/TreeMapExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
